@@ -1,0 +1,62 @@
+{
+  "cliente": [
+    {
+      "id": 1,
+      "nome": "Elivar",
+      "email": "elivar@gmail.com",
+      "pedido": "X-tudo + Refrigente",
+      "data": "10/11/2022"
+    },
+    {
+      "id": 2,
+      "nome": "Camila",
+      "email": "camila@gmail.com",
+      "pedido": "Milkshake + Batata Frita",
+      "data": "15/11/2022"
+    },
+    {
+      "id": 3,
+      "nome": "Gabriel",
+      "email": "gabriel@gmail.com",
+      "pedido": "X-tudo + Refrigente + Batata Frita",
+      "data": "28/11/2022"
+    }
+  ],
+  "funcionario": [
+    {
+      "id": 1,
+      "login": "Roberto",
+      "cpf": 18256917485,
+      "setor": "Chef de Cozinha"
+    },
+    {
+      "id": 2,
+      "login": "Isabele",
+      "cpf": 17707752788,
+      "setor": "Auxiliar de Cozinha"
+    },
+    {
+      "id": 3,
+      "login": "Samara",
+      "cpf": 14565489758,
+      "setor": "Atendente"
+    }
+  ],
+  "socios": [
+    {
+      "id": 1,
+      "login": "Ygor",
+      "cpf": 16954178564
+    },
+    {
+      "id": 2,
+      "login": "Larisse",
+      "cpf": 15687458748
+    },
+    {
+      "id": 3,
+      "login": "Mayara",
+      "cpf": 78658749875
+    }
+  ]
+}
